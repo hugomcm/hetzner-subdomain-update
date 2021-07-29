@@ -1,0 +1,15 @@
+{
+  "name": "hetzner-subdomain-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crocks": "^0.12.4"
+  }
+}
